@@ -51,12 +51,10 @@ Input validation and basic error handling
 
 Real-world salary logic and deduction systems
 
-📸 Screenshots
-images
+📸 Screenshots of the application as it works
+[images](https://github.com/ayoub-houdadi/Salary-Calculator-GUI/tree/94f3f89b47bf07b06200be9dec395ea8d896162e/images)
 
-📄 License
-This project is open-source and available under the MIT License.
 
 🙋 About the Author
-Developed by Ayoub as part of a personal portfolio for applying to vocational training (Ausbildung) programs.
-Feel free to reach out for collaboration or feedback!
+Developed by Ayoub EL HOUDADI as part of a personal portfolio for applying for an "Ausbildung als Fachinformatiker für Anwendungsentwicklung"
+Feel free to reach out for more informations or feedback!
