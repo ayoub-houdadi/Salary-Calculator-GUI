@@ -4,7 +4,7 @@ A simple desktop application built with Python and Tkinter to calculate net sala
 
 ---
 
-## 🧮 Features
+## 🧮 Features 
 
 - Login screen for access control  
 - Grade-based salary and deductions  
