@@ -22,7 +22,7 @@ salary-calculator/
 ├── logic.py                  # Contains the salary calculation logic
 ├── salary_calculator_gui.py # GUI implementation using Tkinter
 └── README.md                 # Project documentation
-
+```
 🚀 How to Run
 Make sure Python is installed (Python 3.6+ recommended).
 
