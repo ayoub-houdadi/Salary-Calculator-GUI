@@ -16,10 +16,13 @@ A simple desktop application built with Python and Tkinter to calculate net sala
 
 ## 📁 Project Structure
 
+```plaintext
+
 salary-calculator/
 ├── logic.py                  # Contains the salary calculation logic
 ├── salary_calculator_gui.py # GUI implementation using Tkinter
 └── README.md                 # Project documentation
+
 🚀 How to Run
 Make sure Python is installed (Python 3.6+ recommended).
 
@@ -52,7 +55,7 @@ Input validation and basic error handling
 Real-world salary logic and deduction systems
 
 📸 Screenshots of the application as it works
-[images](https://github.com/ayoub-houdadi/Salary-Calculator-GUI/tree/94f3f89b47bf07b06200be9dec395ea8d896162e/images)
+(https://github.com/ayoub-houdadi/Salary-Calculator-GUI/tree/94f3f89b47bf07b06200be9dec395ea8d896162e/images)
 
 
 🙋 About the Author
