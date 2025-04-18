@@ -52,7 +52,7 @@ Input validation and basic error handling
 Real-world salary logic and deduction systems
 
 📸 Screenshots
-[You can add screenshots here if you'd like. I can generate sample mockups if needed.]
+images
 
 📄 License
 This project is open-source and available under the MIT License.
