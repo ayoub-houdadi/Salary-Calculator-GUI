@@ -1,63 +1,61 @@
-# 💼 Salary Calculator GUI
+💼 Gehaltsrechner GUI
+Eine einfache Desktop-Anwendung, entwickelt mit Python und Tkinter, zur Berechnung des Nettogehalts basierend auf Gehaltsstufe, Familienstand, Kinderanzahl und Berufserfahrung. Dieses Projekt zeigt grundlegendes GUI-Design, modulare Code-Struktur und den Umgang mit Benutzereingaben.
 
-A simple desktop application built with Python and Tkinter to calculate net salaries based on job grade, family status, number of children, and work experience. This project showcases basic GUI design, modular code structure, and user input handling.
+🧮 Funktionen
+Login-Bildschirm zur Zugriffskontrolle
 
----
+Gehalts- und Abzugsberechnung basierend auf der Stufe
 
-## 🧮 Features 
+Boni für Familienstand, Kinder und Berufserfahrung
 
-- Login screen for access control  
-- Grade-based salary and deductions  
-- Bonuses for marital status, children, and work experience  
-- Clear, user-friendly interface  
-- Organized code with separated logic and GUI
+Übersichtliche, benutzerfreundliche Oberfläche
 
----
+Strukturierter Code mit Trennung von Logik und Benutzeroberfläche
 
-## 📁 Project Structure
-
-```plaintext
-
+📁 Projektstruktur
+plaintext
+Copy
+Edit
 salary-calculator/
-├── logic.py                  # Contains the salary calculation logic
-├── salary_calculator_gui.py # GUI implementation using Tkinter
-└── README.md                 # Project documentation
-```
-🚀 How to Run
-Make sure Python is installed (Python 3.6+ recommended).
+├── logic.py                  # Enthält die Gehaltsberechnungslogik
+├── salary_calculator_gui.py # GUI-Implementierung mit Tkinter
+└── README.md                 # Projektdokumentation
+🚀 Ausführen der Anwendung
+Stellen Sie sicher, dass Python installiert ist (empfohlen: Python 3.6 oder höher).
 
-Clone the repository or download the source code.
+Klonen Sie das Repository oder laden Sie den Quellcode herunter.
 
-In your terminal or IDE, run the GUI script:
+Führen Sie im Terminal oder in Ihrer IDE das GUI-Skript aus:
 
 bash
 Copy
 Edit
 python salary_calculator_gui.py
-Login credentials:
+Zugangsdaten:
 
-Username: ayoub
+Benutzername: ayoub
 
-Password: ayb
+Passwort: ayb
 
-🛠️ Technologies Used
+🛠️ Verwendete Technologien
 Python 3
 
-Tkinter (standard Python GUI library)
+Tkinter (Standard-GUI-Bibliothek von Python)
 
-🧠 Skills Demonstrated
-GUI development with Tkinter
+🧠 Gezeigte Fähigkeiten
+GUI-Entwicklung mit Tkinter
 
-Modular programming (separation of concerns)
+Modulare Programmierung (Trennung von Logik und Oberfläche)
 
-Input validation and basic error handling
+Eingabevalidierung und einfache Fehlerbehandlung
 
-Real-world salary logic and deduction systems
+Praxisnahe Logik zur Gehaltsberechnung und Abzüge
 
-📸 Screenshots of the application as it works
+📸 Screenshots der Anwendung
 (https://github.com/ayoub-houdadi/Salary-Calculator-GUI/tree/94f3f89b47bf07b06200be9dec395ea8d896162e/images)
 
+🙋 Über den Autor
+Entwickelt von Ayoub EL HOUDADI als Teil eines persönlichen Portfolios für Bewerbungen zur
+Ausbildung als Fachinformatiker für Anwendungsentwicklung.
 
-🙋 About the Author
-Developed by Ayoub EL HOUDADI as part of a personal portfolio for applying for an "Ausbildung als Fachinformatiker für Anwendungsentwicklung"
-Feel free to reach out for more informations or feedback!
+Bei Fragen oder Feedback gerne melden!
