@@ -50,7 +50,8 @@ Eingabevalidierung und einfache Fehlerbehandlung
 Praxisnahe Logik zur Gehaltsberechnung und Abzüge
 
 📸 Screenshots der Anwendung : 
-Zur Galerie
+(https://github.com/ayoub-houdadi/Salary-Calculator-GUI/tree/d83326ed4afc13dcc6e4f73287201d093057fa19/images)
+
 
 🙋 Über den Autor : 
 Entwickelt von Ayoub EL HOUDADI als Teil eines persönlichen Portfolios für Bewerbungen zur Ausbildung als Fachinformatiker für Anwendungsentwicklung.
