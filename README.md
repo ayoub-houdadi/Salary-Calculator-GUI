@@ -54,6 +54,6 @@ Praxisnahe Logik zur Gehaltsberechnung und Abzüge
 
 
 🙋 Über den Autor : 
-Entwickelt von Ayoub EL HOUDADI als Teil eines persönlichen Portfolios für Bewerbungen zur Ausbildung als Fachinformatiker für Anwendungsentwicklung.
+Entwickelt von Ayoub EL HOUDADI.
 
 Bei Fragen oder Feedback gerne melden!
